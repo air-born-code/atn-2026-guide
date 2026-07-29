@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T22:12:16.570144+00:00",
+ "updated": "2026-07-29T23:13:22.445237+00:00",
  "method": "keyword fallback (no API key set)",
  "sources": {
   "rss:Nialler9": "ok (6 relevant of 20)",
@@ -13,7 +13,7 @@
   "watch:ATN news": "ok",
   "watch:Clashfinder": "ok"
  },
- "collected": 6,
+ "collected": 7,
  "items": [
   {
    "headline": "Dance Forever brings Red Bull and Yamamori Izakaya to All Together Now",
@@ -62,6 +62,14 @@
    "category": "other",
    "source": "Nialler9",
    "url": "https://nialler9.com/10-acts-to-see-at-the-circle-by-jameson-music-at-all-together-now/"
+  },
+  {
+   "headline": "Clashfinder page changed",
+   "summary": "The Clashfinder page changed since the last check. This is where stage-time and lineup changes show up first.",
+   "confidence": "confirmed",
+   "category": "schedule_change",
+   "source": "Clashfinder",
+   "url": "https://clashfinder.com/m/atn2026/"
   }
  ]
 }
