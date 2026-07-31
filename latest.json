@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T02:22:25.658829+00:00",
+ "updated": "2026-07-31T05:49:21.536207+00:00",
  "method": "keyword fallback (no API key set)",
  "sources": {
   "rss:Nialler9": "ok (6 relevant of 20)",
@@ -13,7 +13,7 @@
   "watch:ATN news": "ok",
   "watch:Clashfinder": "ok"
  },
- "collected": 6,
+ "collected": 7,
  "items": [
   {
    "headline": "All Together Now: Essential info, site map, stage times & more",
@@ -62,6 +62,14 @@
    "category": "other",
    "source": "Nialler9",
    "url": "https://nialler9.com/the-big-romance-dome-x-altos-300-capacity-dome-for-all-together-now/"
+  },
+  {
+   "headline": "Clashfinder page changed",
+   "summary": "The Clashfinder page changed since the last check. This is where stage-time and lineup changes show up first.",
+   "confidence": "confirmed",
+   "category": "schedule_change",
+   "source": "Clashfinder",
+   "url": "https://clashfinder.com/m/atn2026/"
   }
  ]
 }
